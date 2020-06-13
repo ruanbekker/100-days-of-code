@@ -7,7 +7,7 @@
 - [GO Tutorial by @FreeCodeCamp](https://www.freecodecamp.org/news/go-golang-programming-language/)
 - [A Tour of GO](https://tour.golang.org/welcome/1)
 - [GO Tutorials by @tutorialedge.net](https://tutorialedge.net/course/golang/)
-- [GO Tutorials by @JustForFunc (video)](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+- [GO Tutorials by @francesc JustForFunc (video)](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 - [GO Challenges by @tutorialedge.net](https://tutorialedge.net/challenges/go/)
 - [gophercises](https://gophercises.com/)
 - [Go by Example](https://github.com/mmcgrana/gobyexample)
