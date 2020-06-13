@@ -27,3 +27,6 @@
 
 ## Books
 - [The GO Programming Language](http://www.gopl.io/)
+
+## Twitter
+- [@golangweekly](https://twitter.com/golangweekly)
