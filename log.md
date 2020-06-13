@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: June 13, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Things done**: Added a list of resources to [go-resources/README.md](go-resources/README.md).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm excited to start, but feels like a massive mountain that I need to climb.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [go-resources/README.md](go-resources/README.md)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
