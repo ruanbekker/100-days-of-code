@@ -18,7 +18,7 @@
 
 - [Day 1 Notes](https://github.com/ruanbekker/100-days-of-code/commit/f2437cd916cc7828d13265bca2c992cff855dbd8)
 - [Day 1: Setup Your Go Environment](https://github.com/ruanbekker/100-days-of-code/commit/b1f3527bd8611e72afaacdd4ed13e99f14b0c274)
-
+- [Day 1: Go get basics](https://github.com/ruanbekker/100-days-of-code/commit/1909dc47dccc20a3cf49cac2cab23dc0697c2425)
 
 ### Day 1: June 27, Monday
 
