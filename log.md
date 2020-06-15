@@ -8,14 +8,16 @@
 
 **Link to work:** [go-resources/README.md](go-resources/README.md)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: February 30, 2016 (Example 2)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started with [@Todd_Mcleod](https://twitter.com/Todd_McLeod)'s [Learn How to Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code) course on Udemy (super impressed so far)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Persistence is key, to keep working every day will help you succeed.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
+
+- [Day 1 Notes](https://github.com/ruanbekker/100-days-of-code/commit/f2437cd916cc7828d13265bca2c992cff855dbd8)
+- [Day 1: Setup Your Go Environment](https://github.com/ruanbekker/100-days-of-code/commit/b1f3527bd8611e72afaacdd4ed13e99f14b0c274)
 
 
 ### Day 1: June 27, Monday
