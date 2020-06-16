@@ -33,6 +33,7 @@ Backwards Compatibility
 
 - Expressive and Comprehensible
 - Clean, clear and easy to read
+- Convention of Standardized Code Formatting (everyones formatting will look the same with go fmt)
 
 **Fun facts**
 
