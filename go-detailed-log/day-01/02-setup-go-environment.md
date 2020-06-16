@@ -19,7 +19,7 @@ $ tree ~/go
 - pkg: archives
 - src: source code
 
-The `GOPATH` environment variable defines your workspace and the `GOROOT` environment variable defines the path where go is installed.
+The `GOPATH` environment variable defines your workspace, the `GOROOT` environment variable defines the path where go is installed and the the `GOBIN` environment variable helps when using the `go install` command to inform the system where to place the binary.
 
 ## Setup Go Environment on Mac
 
@@ -47,6 +47,7 @@ Depending if you have zsh or bash, in my case zsh, append the environment variab
 
 ```
 export GOPATH=~/go
+export GOBIN=~/go/bin
 export GOROOT=/usr/local/opt/go/libexec
 export PATH=${PATH}:${GOPATH}/bin:${GOROOT}/bin
 ```
@@ -82,6 +83,7 @@ Append the environment variables in `~/.bashrc`:
 ```
 export GOROOT=/usr/local/go
 export GOPATH=~/go
+export GOBIN=~/go/bin
 export PATH=${PATH}:${GOROOT}/bin:${GOPATH}/bin
 ```
 
