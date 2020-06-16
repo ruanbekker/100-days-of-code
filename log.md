@@ -21,3 +21,13 @@
 - [Day 1: Go get basics](https://github.com/ruanbekker/100-days-of-code/commit/1909dc47dccc20a3cf49cac2cab23dc0697c2425)
 - [Day 1: Go fmt command](https://github.com/ruanbekker/100-days-of-code/commit/d54f43b3d18745576f51e49e2a581f4a80431e8b)
 
+
+### Day 2: Jume 16, 2020
+
+**Today's Progress**: Go modules, package management and dependencies
+
+**Thoughts**: I am really enjoying Todd's course and he explains really well. For Go's dependencies, it's really nice how they've structured it. Went through some basics.
+
+**Link(s) to work**:
+
+- [Day 2 Notes](https://github.com/ruanbekker/100-days-of-code/commit/28635043f5e1626b17c109cca162040f08b85508)
