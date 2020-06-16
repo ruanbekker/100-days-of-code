@@ -8,7 +8,7 @@
 
 **Link to work:** [go-resources/README.md](go-resources/README.md)
 
-### Day 1: February 30, 2016 (Example 2)
+### Day 1: Jume 15, 2020 
 
 **Today's Progress**: Started with [@Todd_Mcleod](https://twitter.com/Todd_McLeod)'s [Learn How to Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code) course on Udemy (super impressed so far)
 
@@ -21,12 +21,3 @@
 - [Day 1: Go get basics](https://github.com/ruanbekker/100-days-of-code/commit/1909dc47dccc20a3cf49cac2cab23dc0697c2425)
 - [Day 1: Go fmt command](https://github.com/ruanbekker/100-days-of-code/commit/d54f43b3d18745576f51e49e2a581f4a80431e8b)
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
