@@ -31,3 +31,12 @@
 **Link(s) to work**:
 
 - [Day 2 Notes](https://github.com/ruanbekker/100-days-of-code/commit/28635043f5e1626b17c109cca162040f08b85508)
+
+
+### Day 3: Jume 17, 2020
+
+**Today's Progress**: Go packages, how to use packages and how to lookup documentation on those packages
+
+**Link(s) to work**:
+
+- [Day 3 Notes](https://github.com/ruanbekker/100-days-of-code/commit/b22dbe70d02b96e4899c8fa58dd4a009a8dda3bd)
