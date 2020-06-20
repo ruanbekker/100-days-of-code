@@ -120,14 +120,30 @@ func main(){
 ```
 
 Go is a STATIC programming language (not dynamic), once you declared a data type as string, you cant change the type to the declared variable as int 
+
 A VARIABLE is DECLARED to hold a VALUE of a certain TYPE
 
 DECLARE variable of TYPE string with IDENTIFIER of x and ASSIGNING a VALUE of ""
 
 String literal: `var a string = "a"`
+
 Raw string literal: 
 
 ```
 var a string = `james said "hello"`
 ```
 
+Go, you need to be precise. You need to specify what you want to do
+
+Primitive data types (basic or built in data types):
+
+- integer
+- string
+- boolean
+- float
+
+Composite data types (can hold more than one data type / aggregate data type):
+
+- struct
+- slice
+- array
