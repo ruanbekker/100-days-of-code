@@ -40,3 +40,19 @@
 **Link(s) to work**:
 
 - [Day 3 Notes](https://github.com/ruanbekker/100-days-of-code/commit/b22dbe70d02b96e4899c8fa58dd4a009a8dda3bd)
+
+### Day 4: June 18, 2020
+
+**Today's Progress**: Terminology, short declaration operator, zero values, primitive data types and composite data types
+
+**Link to work:**
+
+- [Day 4 Notes](https://github.com/ruanbekker/100-days-of-code/blob/master/go-detailed-log/day-04/01-notes.md)
+
+### Day 5: June 19, 2020
+
+**Today's Progress**: Static variables, types and conversion
+
+**Link to work:**
+
+- [Day 5 Notes](https://github.com/ruanbekker/100-days-of-code/blob/master/go-detailed-log/day-05/01-notes.md)
