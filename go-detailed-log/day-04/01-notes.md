@@ -98,6 +98,7 @@ var y int
 var y int = 0 (the same as above)
 var y string = ""
 var y float = 0.0
+// nil for composite data types
 ```
 
 Printing data types:
