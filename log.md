@@ -56,3 +56,12 @@
 **Link to work:**
 
 - [Day 5 Notes](https://github.com/ruanbekker/100-days-of-code/blob/master/go-detailed-log/day-05/01-notes.md)
+
+
+### Day 6: June 22, 2020
+
+**Today's Progress**: Challenges and Summary of so far
+
+**Link to work:**
+
+- [Day 6 Notes](https://github.com/ruanbekker/100-days-of-code/blob/master/go-detailed-log/day-06/01-notes.md)
